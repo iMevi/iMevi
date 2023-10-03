@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!!1! :D
 
 <!--
 **iMevi/iMevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Gabriela Sayuri but you can call me Mevi. I'm a streamer composer who have interest in coding.
+
+[![Twitch](https://img.shields.io/badge/Twitch-6441A5?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/imevis)
+[![Twitch](https://img.shields.io/twitch/status/iMevi)
